@@ -1,5 +1,5 @@
 Sudoku_nuevo
 ============
 
-Sudoku nuevo en c++
-Estoy probando
+Sudoku nuevo en C++.
+Estoy probando y yo vuelvo a probar.
